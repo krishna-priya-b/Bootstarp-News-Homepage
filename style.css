@@ -36,6 +36,12 @@ body {
 
 .link {
   color: rgb(125, 125, 125);
+  transition: 0.3s ease-in;
+
+}
+
+.link:hover{
+  color: var(--Soft-red);
 }
 
 .main-heading {
